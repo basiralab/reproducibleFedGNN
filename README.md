@@ -115,13 +115,14 @@ To learn about how federated reproducibility works, check the following YouTube 
 
 # Federated reproducibility paper on arXiv
 
-
+https://arxiv.org/abs/2209.06032
 
 # Please cite the following paper when using federated reproducibility:
 
 ```latex
 
 ```
+
 # Credits
 * Federated learning technique is built on [RG-Select](https://github.com/basiralab/RG-Select) framework.
 
