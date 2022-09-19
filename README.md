@@ -117,10 +117,16 @@ To learn about how federated reproducibility works, check the following YouTube 
 
 https://arxiv.org/abs/2209.06032
 
-# Please cite the following paper when using federated reproducibility:
+# Please cite the following paper when using our work:
 
 ```latex
-
+  @inproceedings{Balik2022,
+    title={Investigating the Predictive Reproducibility of Federated Graph Neural Networks using Medical Datasets},
+    author={Balik, Mehmet Yigit and Rekik, Arwa and Rekik, Islem},
+    booktitle={International Workshop on PRedictive Intelligence In MEdicine},
+    year={2022},
+    organization={Springer}
+  }
 ```
 
 # Credits
