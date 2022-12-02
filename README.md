@@ -107,11 +107,10 @@ The figure shows the learned weights of the features by the most reproducible mo
 ## YouTube videos to install and run the code and understand how federated reproducibility works
 
 To install and run federeated reproducibility, check the following YouTube video: 
-
-
+https://www.youtube.com/watch?v=bG54z0v75U0&list=PLug43ldmRSo2p3vVV5K9I4yWZuyXQ0_jL&index=3&ab_channel=BASIRALab
 
 To learn about how federated reproducibility works, check the following YouTube video: 
-
+https://www.youtube.com/watch?v=pnattjt981k&list=PLug43ldmRSo0bX8cOSuMWinXs-xem9q4o&index=4&ab_channel=BASIRALab
 
 # Federated reproducibility paper on arXiv
 
